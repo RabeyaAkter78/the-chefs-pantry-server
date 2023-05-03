@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "picture": "https://images.hindustantimes.com/img/2021/07/16/original/Kishwar_Chowdhary_1626416395536.jpg",
+    "name": "Chef Kishwar Chowdhury",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 1000,
+    "view_recipes_button": "https://example.com/chef1/recipes"
+  },
+  {
+    "id": 2,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh-960x480.jpg",
+    "name": "Chef Ahmed Hossain",
+    "years_of_experience": 8,
+    "number_of_recipes": 40,
+    "likes": 800,
+    "view_recipes_button": "https://example.com/chef2/recipes"
+  },
+  {
+    "id": 3,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+    "name": "Chef Kabir",
+    "years_of_experience": 15,
+    "number_of_recipes": 70,
+    "likes": 1500,
+    "view_recipes_button": "https://example.com/chef3/recipes"
+  },
+  {
+    "id": 4,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "name": "Chef Baisab",
+    "years_of_experience": 5,
+    "number_of_recipes": 30,
+    "likes": 500,
+    "view_recipes_button": "https://example.com/chef4/recipes"
+  },
+  {
+    "id": 5,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg",
+    "name": "Mr. Feroze Khan",
+    "years_of_experience": 12,
+    "number_of_recipes": 60,
+    "likes": 1200,
+    "view_recipes_button": "https://example.com/chef5/recipes"
+  },
+  {
+    "id": 6,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg",
+    "name": "Shelly Nuruzzaman",
+    "years_of_experience": 7,
+    "number_of_recipes": 35,
+    "likes": 700,
+    "view_recipes_button": "https://example.com/chef6/recipes"
+  }
+]
