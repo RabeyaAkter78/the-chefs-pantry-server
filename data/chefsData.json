@@ -6,7 +6,7 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 1000,
-    "view_recipes_button": "https://example.com/chef1/recipes"
+    "short_bio": "Chef Kishwar Chowdhury is a seasoned chef with over 10 years of experience. He has created over 50 recipes that are both classic and inventive, showcasing her love for traditional cuisine as well as her passion for exploring new flavors."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "years_of_experience": 8,
     "number_of_recipes": 40,
     "likes": 800,
-    "view_recipes_button": "https://example.com/chef2/recipes"
+    "short_bio": "Chef Ahmed Hossain is a seasoned chef with over 8 years of experience. He has created over 40 recipes that are both classic and inventive, showcasing his love for traditional cuisine as well as his passion for exploring new flavors."
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "years_of_experience": 15,
     "number_of_recipes": 70,
     "likes": 1500,
-    "view_recipes_button": "https://example.com/chef3/recipes"
+    "short_bio": "Chef Kabir has been a rising star in the culinary world for the past 15 years. She has created 70 recipes that are both innovative and delicious, making his a chef to watch out for."
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "years_of_experience": 5,
     "number_of_recipes": 30,
     "likes": 500,
-    "view_recipes_button": "https://example.com/chef4/recipes"
+    "short_bio": "Chef Baisab is a culinary expert with over 5 years of experience. He has created over 30 recipes that are both visually stunning and absolutely delicious. With Chef Baisab, you're guaranteed to experience the best of both worlds."
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "years_of_experience": 12,
     "number_of_recipes": 60,
     "likes": 1200,
-    "view_recipes_button": "https://example.com/chef5/recipes"
+    "short_bio": "Mr. Feroze Khan has been cooking professionally for over 12 years. He specializes in creating delicious and healthy meals that are sure to satisfy any appetite. With over 60 recipes to his name, Mr. Feroze Khan is a seasoned veteran in the kitchen."
   },
   {
     "id": 6,
@@ -51,6 +51,7 @@
     "years_of_experience": 7,
     "number_of_recipes": 35,
     "likes": 700,
-    "view_recipes_button": "https://example.com/chef6/recipes"
+    "short_bio": "Shelly Nuruzzaman is a master of flavors and textures, with over 7 years of professional experience in the kitchen. Her repertoire of 35 recipes is a testament to her versatility and creativity as a chef."
+    
   }
 ]
