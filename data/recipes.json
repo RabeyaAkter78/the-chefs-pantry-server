@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Classic Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "Salt and pepper, to taste",
+            "1 pound spaghetti",
+            "Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Heat a large pot over medium heat. Add the ground beef and cook, breaking it up with a wooden spoon, until browned and cooked through, about 8-10 minutes. Drain any excess fat.\n2. Add the onion and garlic to the pot and cook until softened, about 5 minutes.\n3. Add the crushed tomatoes and dried basil to the pot and stir to combine. Season with salt and pepper to taste.\n4. Bring the sauce to a simmer and let it cook for 20-30 minutes, until the flavors have melded together.\n5. While the sauce is cooking, cook the spaghetti in a separate pot according to the package instructions.\n6. Serve the spaghetti with the sauce on top and Parmesan cheese, if desired.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Roasted Chicken and Vegetables",
+        "ingredients": [
+            "1 whole chicken",
+            "1 onion, chopped",
+            "3 carrots, chopped",
+            "3 potatoes, chopped",
+            "2 cloves garlic, minced",
+            "2 tablespoons olive oil",
+            "1 teaspoon dried thyme",
+            "1 teaspoon dried rosemary",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 425°F (218°C).\n2. In a large bowl, toss together the chopped onion, carrots, potatoes, and minced garlic. Drizzle with olive oil and sprinkle with dried thyme, dried rosemary, salt, and pepper. Toss until the vegetables are evenly coated.\n3. Place the chicken on top of the vegetables in a roasting pan.\n4. Roast the chicken and vegetables in the oven for 1 hour to 1 hour and 15 minutes, until the chicken is cooked through and the vegetables are tender.\n5. Let the chicken rest for 10-15 minutes before carving and serving with the roasted vegetables.",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "recipe_name": "Grilled Salmon with Lemon and Herbs",
+        "ingredients": [
+            "4 salmon fillets",
+            "1 lemon, sliced",
+            "2 cloves garlic, minced",
+            "2 tablespoons olive oil",
+            "1 teaspoon dried thyme",
+            "1 teaspoon dried rosemary",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat a grill to medium-high heat.\n2. In a small bowl, whisk together the minced garlic, olive oil, dried thyme, dried rosemary, salt, and pepper.\n3. Brush the salmon fillets with the herb mixture on both sides.\n4. Place the salmon fillets on the grill, skin side down, and top each fillet with a slice of lemon.\n5. Grill the salmon for 6-8 minutes, until it is cooked through and flakes easily with a fork.\n6. Serve the grilled salmon with additional lemon wedges",
+        "rating": 4.8
+    }
+]
