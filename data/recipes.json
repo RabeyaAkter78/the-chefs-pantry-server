@@ -1,50 +1,67 @@
 [
     {
         "id": 1,
-        "recipe_name": "Classic Spaghetti Bolognese",
+        "recipe_name": "Bangladeshi chicken curry",
+        "recipeImg": "https://www.shutterstock.com/image-photo/spicy-reddish-chicken-curry-masala-260nw-677910214.jpg",
         "ingredients": [
-            "1 pound ground beef",
-            "1 onion, finely chopped",
-            "2 cloves garlic, minced",
-            "1 can (28 ounces) crushed tomatoes",
-            "1 teaspoon dried basil",
-            "Salt and pepper, to taste",
-            "1 pound spaghetti",
-            "Parmesan cheese, for serving"
+            "1 pound boneless, skinless chicken thighs, cut into bite-sized pieces",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 inch piece ginger, peeled and minced",
+            "2 tomatoes, chopped",
+            "2 green chilies, sliced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 teaspoon turmeric",
+            "1/2 teaspoon cayenne pepper",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon garam masala",
+            "1/2 teaspoon salt",
+            "1/4 cup vegetable oil",
+            "1/4 cup water",
+            "Cilantro, for garnish"
         ],
-        "cooking_method": "1. Heat a large pot over medium heat. Add the ground beef and cook, breaking it up with a wooden spoon, until browned and cooked through, about 8-10 minutes. Drain any excess fat.\n2. Add the onion and garlic to the pot and cook until softened, about 5 minutes.\n3. Add the crushed tomatoes and dried basil to the pot and stir to combine. Season with salt and pepper to taste.\n4. Bring the sauce to a simmer and let it cook for 20-30 minutes, until the flavors have melded together.\n5. While the sauce is cooking, cook the spaghetti in a separate pot according to the package instructions.\n6. Serve the spaghetti with the sauce on top and Parmesan cheese, if desired.",
-        "rating": 4.5
+        "cooking_method": "1. Heat the vegetable oil in a large pot over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the garlic and ginger to the pot and cook for an additional minute.\n3. Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.\n4. Add the chopped tomatoes, green chilies, ground cumin, ground coriander, turmeric, cayenne pepper, paprika, garam masala, and salt to the pot. Stir to combine.\n5. Add the water to the pot and bring the mixture to a simmer.\n6. Reduce the heat to low and let the curry simmer for 25-30 minutes, until the chicken is cooked through and the sauce has thickened.\n7. Serve the chicken curry hot, garnished with cilantro.",
+        "rating": 4.7
     },
     {
         "id": 2,
-        "recipe_name": "Roasted Chicken and Vegetables",
+        "recipe_name": "Bangladeshi Fish Curry",
+        "recipeImg": "https://kitchenofdebjani.com/wp-content/uploads/2022/10/Barishali-Ilish-Recipe-debjanir-rannaghar.jpg",
         "ingredients": [
-            "1 whole chicken",
-            "1 onion, chopped",
-            "3 carrots, chopped",
-            "3 potatoes, chopped",
-            "2 cloves garlic, minced",
-            "2 tablespoons olive oil",
-            "1 teaspoon dried thyme",
-            "1 teaspoon dried rosemary",
-            "Salt and pepper, to taste"
+            "1 pound fish fillet (any white fish), cut into bite-sized pieces",
+            "1 onion, finely chopped",
+            "3 cloves garlic, minced",
+            "1 inch piece ginger, peeled and minced",
+            "2 tomatoes, chopped",
+            "2 green chilies, sliced",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 teaspoon turmeric",
+            "1/2 teaspoon cayenne pepper",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon garam masala",
+            "1/2 teaspoon salt",
+            "1/4 cup vegetable oil",
+            "1/4 cup water",
+            "Cilantro, for garnish"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F (218°C).\n2. In a large bowl, toss together the chopped onion, carrots, potatoes, and minced garlic. Drizzle with olive oil and sprinkle with dried thyme, dried rosemary, salt, and pepper. Toss until the vegetables are evenly coated.\n3. Place the chicken on top of the vegetables in a roasting pan.\n4. Roast the chicken and vegetables in the oven for 1 hour to 1 hour and 15 minutes, until the chicken is cooked through and the vegetables are tender.\n5. Let the chicken rest for 10-15 minutes before carving and serving with the roasted vegetables.",
-        "rating": 4.8
+        "cooking_method": "1. Heat the vegetable oil in a large pot over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the garlic and ginger to the pot and cook for an additional minute.\n3. Add the fish to the pot and cook until browned on all sides, about 5-7 minutes.\n4. Add the chopped tomatoes, green chilies, ground cumin, ground coriander, turmeric, cayenne pepper, paprika, garam masala, and salt to the pot. Stir to combine.\n5. Add the water to the pot and bring the mixture to a simmer.\n6. Reduce the heat to low and let the curry simmer for 15-20 minutes, until the fish is cooked through and the sauce has thickened.\n7. Serve the fish curry hot, garnished with cilantro.",
+        "rating": 4.5
     },
     {
         "id": 3,
-        "recipe_name": "Grilled Salmon with Lemon and Herbs",
+        "recipe_name": "Roshogolla",
+        "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
         "ingredients": [
-            "4 salmon fillets",
-            "1 lemon, sliced",
-            "2 cloves garlic, minced",
-            "2 tablespoons olive oil",
-            "1 teaspoon dried thyme",
-            "1 teaspoon dried rosemary",
-            "Salt and pepper, to taste"
+            "4 cups whole milk",
+            "2 tablespoons lemon juice",
+            "3 cups water",
+            "1 cup sugar",
+            "2 cardamom pods",
+            "A few drops of rose water"
         ],
-        "cooking_method": "1. Preheat a grill to medium-high heat.\n2. In a small bowl, whisk together the minced garlic, olive oil, dried thyme, dried rosemary, salt, and pepper.\n3. Brush the salmon fillets with the herb mixture on both sides.\n4. Place the salmon fillets on the grill, skin side down, and top each fillet with a slice of lemon.\n5. Grill the salmon for 6-8 minutes, until it is cooked through and flakes easily with a fork.\n6. Serve the grilled salmon with additional lemon wedges",
+        "cooking_method": "1. Heat the milk in a large pot over medium heat. When it comes to a boil, turn off the heat and add the lemon juice.\n2. Stir gently until the milk curdles and the whey separates from the curd.\n3. Line a strainer with cheesecloth and strain the curdled milk. Rinse the curdled milk under cold water to remove any lemon flavor.\n4. Gather the cheesecloth and squeeze out any remaining liquid. Hang the cheesecloth for 1 hour to drain any excess liquid.\n5. In a separate pot, add the water, sugar, and cardamom pods. Bring to a boil and simmer for 5 minutes.\n6. Add the cheese balls to the pot and cover with a lid. Cook for 10-12 minutes over medium-high heat until the balls have doubled in size.\n7. Turn off the heat and let the Roshogolla cool to room temperature. Add a few drops of rose water and refrigerate for at least an hour before serving.",
         "rating": 4.8
     }
 ]

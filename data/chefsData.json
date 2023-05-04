@@ -6,7 +6,29 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 1000,
-    "short_bio": "Chef Kishwar Chowdhury is a seasoned chef with over 10 years of experience. He has created over 50 recipes that are both classic and inventive, showcasing her love for traditional cuisine as well as her passion for exploring new flavors."
+    "short_bio": "Chef Kishwar Chowdhury is a seasoned chef with over 10 years of experience. He has created over 50 recipes that are both classic and inventive, showcasing her love for traditional cuisine as well as her passion for exploring new flavors.",
+    "recipe_name": "Bangladeshi chicken curry",
+    "recipeImg": "https://www.shutterstock.com/image-photo/spicy-reddish-chicken-curry-masala-260nw-677910214.jpg",
+    "ingredients": [
+      "1 pound boneless, skinless chicken thighs, cut into bite-sized pieces",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 inch piece ginger, peeled and minced",
+      "2 tomatoes, chopped",
+      "2 green chilies, sliced",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon paprika",
+      "1/2 teaspoon garam masala",
+      "1/2 teaspoon salt",
+      "1/4 cup vegetable oil",
+      "1/4 cup water",
+      "Cilantro, for garnish"
+    ],
+    "cooking_method": "1. Heat the vegetable oil in a large pot over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the garlic and ginger to the pot and cook for an additional minute.\n3. Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.\n4. Add the chopped tomatoes, green chilies, ground cumin, ground coriander, turmeric, cayenne pepper, paprika, garam masala, and salt to the pot. Stir to combine.\n5. Add the water to the pot and bring the mixture to a simmer.\n6. Reduce the heat to low and let the curry simmer for 25-30 minutes, until the chicken is cooked through and the sauce has thickened.\n7. Serve the chicken curry hot, garnished with cilantro.",
+    "rating": 4.7
   },
   {
     "id": 2,
@@ -15,7 +37,29 @@
     "years_of_experience": 8,
     "number_of_recipes": 40,
     "likes": 800,
-    "short_bio": "Chef Ahmed Hossain is a seasoned chef with over 8 years of experience. He has created over 40 recipes that are both classic and inventive, showcasing his love for traditional cuisine as well as his passion for exploring new flavors."
+    "short_bio": "Chef Ahmed Hossain is a seasoned chef with over 8 years of experience. He has created over 40 recipes that are both classic and inventive, showcasing his love for traditional cuisine as well as his passion for exploring new flavors.",
+    "recipe_name": "Bangladeshi Fish Curry",
+    "recipeImg": "https://kitchenofdebjani.com/wp-content/uploads/2022/10/Barishali-Ilish-Recipe-debjanir-rannaghar.jpg",
+    "ingredients": [
+      "1 pound fish fillet (any white fish), cut into bite-sized pieces",
+      "1 onion, finely chopped",
+      "3 cloves garlic, minced",
+      "1 inch piece ginger, peeled and minced",
+      "2 tomatoes, chopped",
+      "2 green chilies, sliced",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon paprika",
+      "1/2 teaspoon garam masala",
+      "1/2 teaspoon salt",
+      "1/4 cup vegetable oil",
+      "1/4 cup water",
+      "Cilantro, for garnish"
+    ],
+    "cooking_method": "1. Heat the vegetable oil in a large pot over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the garlic and ginger to the pot and cook for an additional minute.\n3. Add the fish to the pot and cook until browned on all sides, about 5-7 minutes.\n4. Add the chopped tomatoes, green chilies, ground cumin, ground coriander, turmeric, cayenne pepper, paprika, garam masala, and salt to the pot. Stir to combine.\n5. Add the water to the pot and bring the mixture to a simmer.\n6. Reduce the heat to low and let the curry simmer for 15-20 minutes, until the fish is cooked through and the sauce has thickened.\n7. Serve the fish curry hot, garnished with cilantro.",
+    "rating": 4.5
   },
   {
     "id": 3,
@@ -24,7 +68,19 @@
     "years_of_experience": 15,
     "number_of_recipes": 70,
     "likes": 1500,
-    "short_bio": "Chef Kabir has been a rising star in the culinary world for the past 15 years. She has created 70 recipes that are both innovative and delicious, making his a chef to watch out for."
+    "short_bio": "Chef Kabir has been a rising star in the culinary world for the past 15 years. She has created 70 recipes that are both innovative and delicious, making his a chef to watch out for.",
+    "recipe_name": "Roshogolla",
+    "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
+    "ingredients": [
+      "4 cups whole milk",
+      "2 tablespoons lemon juice",
+      "3 cups water",
+      "1 cup sugar",
+      "2 cardamom pods",
+      "A few drops of rose water"
+    ],
+    "cooking_method": "1. Heat the milk in a large pot over medium heat. When it comes to a boil, turn off the heat and add the lemon juice.\n2. Stir gently until the milk curdles and the whey separates from the curd.\n3. Line a strainer with cheesecloth and strain the curdled milk. Rinse the curdled milk under cold water to remove any lemon flavor.\n4. Gather the cheesecloth and squeeze out any remaining liquid. Hang the cheesecloth for 1 hour to drain any excess liquid.\n5. In a separate pot, add the water, sugar, and cardamom pods. Bring to a boil and simmer for 5 minutes.\n6. Add the cheese balls to the pot and cover with a lid. Cook for 10-12 minutes over medium-high heat until the balls have doubled in size.\n7. Turn off the heat and let the Roshogolla cool to room temperature. Add a few drops of rose water and refrigerate for at least an hour before serving.",
+    "rating": 4.8
   },
   {
     "id": 4,
@@ -33,7 +89,19 @@
     "years_of_experience": 5,
     "number_of_recipes": 30,
     "likes": 500,
-    "short_bio": "Chef Baisab is a culinary expert with over 5 years of experience. He has created over 30 recipes that are both visually stunning and absolutely delicious. With Chef Baisab, you're guaranteed to experience the best of both worlds."
+    "short_bio": "Chef Baisab is a culinary expert with over 5 years of experience. He has created over 30 recipes that are both visually stunning and absolutely delicious. With Chef Baisab, you're guaranteed to experience the best of both worlds.",
+    "recipe_name": "Roshogolla",
+    "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
+    "ingredients": [
+      "4 cups whole milk",
+      "2 tablespoons lemon juice",
+      "3 cups water",
+      "1 cup sugar",
+      "2 cardamom pods",
+      "A few drops of rose water"
+    ],
+    "cooking_method": "1. Heat the milk in a large pot over medium heat. When it comes to a boil, turn off the heat and add the lemon juice.\n2. Stir gently until the milk curdles and the whey separates from the curd.\n3. Line a strainer with cheesecloth and strain the curdled milk. Rinse the curdled milk under cold water to remove any lemon flavor.\n4. Gather the cheesecloth and squeeze out any remaining liquid. Hang the cheesecloth for 1 hour to drain any excess liquid.\n5. In a separate pot, add the water, sugar, and cardamom pods. Bring to a boil and simmer for 5 minutes.\n6. Add the cheese balls to the pot and cover with a lid. Cook for 10-12 minutes over medium-high heat until the balls have doubled in size.\n7. Turn off the heat and let the Roshogolla cool to room temperature. Add a few drops of rose water and refrigerate for at least an hour before serving.",
+    "rating": 4.8
   },
   {
     "id": 5,
@@ -42,7 +110,19 @@
     "years_of_experience": 12,
     "number_of_recipes": 60,
     "likes": 1200,
-    "short_bio": "Mr. Feroze Khan has been cooking professionally for over 12 years. He specializes in creating delicious and healthy meals that are sure to satisfy any appetite. With over 60 recipes to his name, Mr. Feroze Khan is a seasoned veteran in the kitchen."
+    "short_bio": "Mr. Feroze Khan has been cooking professionally for over 12 years. He specializes in creating delicious and healthy meals that are sure to satisfy any appetite. With over 60 recipes to his name, Mr. Feroze Khan is a seasoned veteran in the kitchen.",
+    "recipe_name": "Roshogolla",
+    "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
+    "ingredients": [
+      "4 cups whole milk",
+      "2 tablespoons lemon juice",
+      "3 cups water",
+      "1 cup sugar",
+      "2 cardamom pods",
+      "A few drops of rose water"
+    ],
+    "cooking_method": "1. Heat the milk in a large pot over medium heat. When it comes to a boil, turn off the heat and add the lemon juice.\n2. Stir gently until the milk curdles and the whey separates from the curd.\n3. Line a strainer with cheesecloth and strain the curdled milk. Rinse the curdled milk under cold water to remove any lemon flavor.\n4. Gather the cheesecloth and squeeze out any remaining liquid. Hang the cheesecloth for 1 hour to drain any excess liquid.\n5. In a separate pot, add the water, sugar, and cardamom pods. Bring to a boil and simmer for 5 minutes.\n6. Add the cheese balls to the pot and cover with a lid. Cook for 10-12 minutes over medium-high heat until the balls have doubled in size.\n7. Turn off the heat and let the Roshogolla cool to room temperature. Add a few drops of rose water and refrigerate for at least an hour before serving.",
+    "rating": 4.8
   },
   {
     "id": 6,
@@ -51,6 +131,18 @@
     "years_of_experience": 7,
     "number_of_recipes": 35,
     "likes": 700,
-    "short_bio": "Shelly Nuruzzaman is a master of flavors and textures, with over 7 years of professional experience in the kitchen. Her repertoire of 35 recipes is a testament to her versatility and creativity as a chef."
+    "short_bio": "Shelly Nuruzzaman is a master of flavors and textures, with over 7 years of professional experience in the kitchen. Her repertoire of 35 recipes is a testament to her versatility and creativity as a chef.",
+    "recipe_name": "Roshogolla",
+    "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
+    "ingredients": [
+      "4 cups whole milk",
+      "2 tablespoons lemon juice",
+      "3 cups water",
+      "1 cup sugar",
+      "2 cardamom pods",
+      "A few drops of rose water"
+    ],
+    "cooking_method": "1. Heat the milk in a large pot over medium heat. When it comes to a boil, turn off the heat and add the lemon juice.\n2. Stir gently until the milk curdles and the whey separates from the curd.\n3. Line a strainer with cheesecloth and strain the curdled milk. Rinse the curdled milk under cold water to remove any lemon flavor.\n4. Gather the cheesecloth and squeeze out any remaining liquid. Hang the cheesecloth for 1 hour to drain any excess liquid.\n5. In a separate pot, add the water, sugar, and cardamom pods. Bring to a boil and simmer for 5 minutes.\n6. Add the cheese balls to the pot and cover with a lid. Cook for 10-12 minutes over medium-high heat until the balls have doubled in size.\n7. Turn off the heat and let the Roshogolla cool to room temperature. Add a few drops of rose water and refrigerate for at least an hour before serving.",
+    "rating": 4.8
   }
 ]
