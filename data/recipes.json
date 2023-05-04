@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "recipe_id": 1,
         "recipe_name": "Bangladeshi chicken curry",
         "recipeImg": "https://www.shutterstock.com/image-photo/spicy-reddish-chicken-curry-masala-260nw-677910214.jpg",
         "ingredients": [
@@ -25,7 +25,7 @@
         "rating": 4.7
     },
     {
-        "id": 2,
+        "recipe_id": 2,
         "recipe_name": "Bangladeshi Fish Curry",
         "recipeImg": "https://kitchenofdebjani.com/wp-content/uploads/2022/10/Barishali-Ilish-Recipe-debjanir-rannaghar.jpg",
         "ingredients": [
@@ -50,7 +50,7 @@
         "rating": 4.5
     },
     {
-        "id": 3,
+        "recipe_id": 3,
         "recipe_name": "Roshogolla",
         "recipeImg": "https://thumbs.dreamstime.com/b/indian-sweet-dessert-rasgulla-famous-bengali-clay-bowl-blue-napkin-violet-background-205054205.jpg",
         "ingredients": [

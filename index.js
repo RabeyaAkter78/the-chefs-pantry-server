@@ -6,8 +6,6 @@ const port = process.env.PORT || 5000;
 const Chefs = require('./data/chefsData.json');
 const Recipes = require('./data/recipes.json');
 
-// const chefs = require('./data/chefsData.json');
-
 app.use(cors());
 
 app.get('/', (req, res) => {
@@ -19,9 +17,24 @@ app.get('/chefs', (req, res) => {
     res.send(Chefs);
 });
 
-app.get('/recipes',(req,res)=>{
+app.get('/recipes', (req, res) => {
     res.send(Recipes);
 })
+
+app.get('/recipes/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedRecipes = Recipes.find(r => r.id === id);
+    res.send(selectedRecipes)
+})
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    if (id === 0) {
+        res.send(Chefs)
+    }
+   
+})
+
+
 
 app.listen(port, () => {
     console.log(`the chefs are busy with cooking on port:${port}`)
